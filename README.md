@@ -1,8 +1,15 @@
 Aplicação com RMI
 ==============
 
-Programação 5
+Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/rmi-remote-method-invocation" target="_blank">aqui</a>.
+
+Informações disponível <a href="https://github.com/FabricioRonchi/RMI" target="_blank">aqui</a>.
+
+Equipe: Fabrício, João, Emiliano, Everton e Rubens
+
+Programação V
 
 Bacharel em Sistemas de Informação
 
-Conteudo da Apresentação <a href="https://github.com/FabricioRonchi/RMI" target="blank">aqui</a>.
+UML
+==============
