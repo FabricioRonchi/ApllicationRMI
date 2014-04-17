@@ -9,7 +9,7 @@ Equipe: Fabrício, João, Emiliano, Everton e Rubens
 
 Programação V
 
-Bacharel em Sistemas de Informação
+Bacharel em Sistemas de Informação - 5ª Fase
 
 <h3>Modelo UML</h3>
 <img src="uml.png">
